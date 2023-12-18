@@ -1,4 +1,3 @@
 Hi this is text document need to upload to repository
 Checking the files are moved to repository or not.
-Checking for the git merge conflict--new line
-
+This file is checking for git pull and git fetch.
